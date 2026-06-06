@@ -1,8 +1,8 @@
 <script setup>
 const stats = [
-  { label: 'Projets', value: '+300' },
-  { label: 'Années', value: '7' },
-  { label: 'Clients', value: '+200' },
+  { label: 'Projets', value: '+3' },
+  { label: 'Années', value: '5' },
+  { label: 'Clients', value: '+15' },
 ];
 </script>
 

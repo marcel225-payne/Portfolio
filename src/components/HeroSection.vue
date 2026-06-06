@@ -37,7 +37,7 @@ import { Download } from 'lucide-vue-next';
                         <button class="px-8 py-4 rounded-full border border-amber-500/30 text-amber-400 hover:bg-amber-500/10 
                             hover:border-amber-500/50 transition-all flex items-center justify-center gap-2">
                             <Download :size="18"/>
-                            <a href="/resume.pdf" download="resume.pdf" class="font-semibold">
+                            <a href="/THIO_aej_cv.pdf" download="THIO_aej_cv.pdf" class="font-semibold">
                                 Télécharger CV
                             </a>
                         </button>
